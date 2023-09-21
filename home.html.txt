@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>Home</title>
+    </head>
+    <body>
+        <center>
+            <center>
+                <div class="nav">
+                    <a href="home.html">Home</a>
+                    <a href="result.html">Result</a>
+                    <a href="registration.html">Registration</a>
+                    <a href="video.html">Video</a>
+                    <a href="location.html">Location</a>
+                </div>
+            </center><br>
+        </center><br>
+
+        <center>
+        <table>
+            <tr>
+                <td><img src="PP1.jpg" alt="" width="240" height="240"></td>
+                <td>
+                    <h2>Israt Jahan</h2>
+                    <h4> Developer</h4>
+                </td>
+            </tr>
+        </table>
+    </center>
+    <center>
+    <h2>About Me</h2></center>
+    <p>I am Israt Jahan, a Software Engineering student at DIU.</p><br>
+<center>
+    <h2>Education</h2></center>
+    <ol>
+        <li><h3>Gazipur Cant.Borad Girls' High School</h3></li>
+            <ul>
+                <li>SSC</li>
+                <li>2017</li>
+            </ul>
+        <li><h3>Gazipur Cant.Borad Collage</h3></li>
+            <ul>
+                <li>HSC</li>
+                <li>2019</li>
+            </ul>
+        <li><h3>Daffodil International University</h3></li>
+            <ul>
+                <li>B.Sc.</li>
+                <li>Going on...</li>
+            </ul>
+    </ol><br>
+    <center>
+    <h2>Projects</h2></center>
+    <ul>
+        <li><h3>Developer</h3></li>
+        <ol>
+            <li>Print Templates</li>
+            <li>Web elements</li>
+            <li>Illustrations</li>
+            <li>Product Mock-ups</li>
+            <li>Photoshop Plugins</li>
+        
+
+    </ul>
+    <center>
+         <h2>Reference</h2></center>
+    <ul>
+        <li><a href="https://faculty.daffodilvarsity.edu.bd/profile/swe/esraq.html">Mr. Esraq Humayun </li>
+    </ul>
+
+
+    </body>
+</html>
